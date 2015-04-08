@@ -25,4 +25,12 @@ public class EdgeLineLinearLayout extends LinearLayout{
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
     }
+
+    @Override
+    protected void dispatchDraw(Canvas canvas) {
+        super.dispatchDraw(canvas);
+
+        //TODO Draw a line at the edge of the layout.
+
+    }
 }

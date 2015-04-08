@@ -32,5 +32,7 @@ public class EdgeLineLinearLayout extends LinearLayout{
 
         //TODO Draw a line at the edge of the layout.
 
+        //test
+
     }
 }
